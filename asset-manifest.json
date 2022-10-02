@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd295afe.css",
+    "main.js": "/static/js/main.610735ec.js",
+    "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
+    "static/media/משתנים.docx": "/static/media/משתנים.327e96a523a45c4b1250.docx",
+    "static/media/מבוא למחשבים.docx": "/static/media/מבוא למחשבים.5d67c0fe072e3dee9e30.docx",
+    "static/media/Java - Standards -new.pdf": "/static/media/Java - Standards -new.0c7c3f4efd38186451d6.pdf",
+    "static/media/מבוא לתכנות.docx": "/static/media/מבוא לתכנות.220c2d14601267d5da30.docx",
+    "static/media/לולאות.docx": "/static/media/לולאות.79e15651cdb442739954.docx",
+    "static/media/פונקציות.docx": "/static/media/פונקציות.1d8e14956c209324cec6.docx",
+    "static/media/logo.png": "/static/media/logo.2ed347a09c382be81ddf.png",
+    "static/media/תנאים.docx": "/static/media/תנאים.b7faebabf7c5093e4a51.docx",
+    "static/media/Debug.docx": "/static/media/Debug.febe66903ecf10db3d35.docx",
+    "static/media/מדריך להתקנה של intellij.docx": "/static/media/מדריך להתקנה של intellij.7453c06e9d1829674a74.docx",
+    "static/media/קלט פלט.docx": "/static/media/קלט פלט.431ec0c44c32708fd2d5.docx",
+    "static/media/אופרטורים וביטויים לוגיים.docx": "/static/media/אופרטורים וביטויים לוגיים.7d2cc6b823d0e8134676.docx",
+    "static/media/תוכנית בסיסית בJAVA.docx": "/static/media/תוכנית בסיסית בJAVA.937f04063548706bfdbd.docx",
+    "static/media/תרגול פונקציות.docx": "/static/media/תרגול פונקציות.a86ba734ed1865fa53b0.docx",
+    "static/media/תרגול מסכם שקי חול.docx": "/static/media/תרגול מסכם שקי חול.de150ccd51a9ef8215e5.docx",
+    "static/media/display.jpg": "/static/media/display.272a045ac9a06fd4569a.jpg",
+    "static/media/תרגול סטנדרטים.docx": "/static/media/תרגול סטנדרטים.a26026dbfd6ece903cf7.docx",
+    "static/media/טיפים לפיתוח קוד נכון.docx": "/static/media/טיפים לפיתוח קוד נכון.56967022692666c9ecf8.docx",
+    "static/media/Untitled.png": "/static/media/Untitled.eddba819d5e76bc14588.png",
+    "static/media/מקרי בדיקה.docx": "/static/media/מקרי בדיקה.816ff1bd7677c82e9a95.docx",
+    "static/media/בסיסי ספירה.docx": "/static/media/בסיסי ספירה.17008a3b16ff6f2a3440.docx",
+    "static/media/מקרי ריצה לבדיקה.docx": "/static/media/מקרי ריצה לבדיקה.44396f656d7a76eb1a88.docx",
+    "static/media/הבהרות.docx": "/static/media/הבהרות.677f86149388019498ea.docx",
+    "static/media/לוז.xlsx": "/static/media/לוז.aeaf0beb9d228f202fc8.xlsx",
+    "static/media/Main.java": "/static/media/Main.2c5b4b6f46a4f177897a.java",
+    "index.html": "/index.html",
+    "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
+    "main.610735ec.js.map": "/static/js/main.610735ec.js.map",
+    "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd295afe.css",
+    "static/js/main.610735ec.js"
+  ]
+}
