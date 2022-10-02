@@ -1,0 +1,15 @@
+iframe {
+  height: 50vh;
+  width: 70vh;
+  position: absolute;
+}
+
+.grayed {
+  background-color: rgb(157, 157, 157) !important;
+  filter: grayscale();
+}
+
+.noStyle {
+  text-decoration: none;
+  color: black;
+}

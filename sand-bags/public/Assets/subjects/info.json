@@ -1,0 +1,157 @@
+[
+  {
+    "name": "מבוא למחשבים",
+    "files": [
+      {
+        "name": "מבוא למחשבים.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "מבוא לתכנות",
+    "files": [
+      {
+        "name": "טיפים לפיתוח קוד נכון.docx"
+      },
+      {
+        "name": "מבוא לתכנות.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "מבוא לתכנות",
+    "files": [
+      {
+        "name": "מבוא למחשבים"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "מבוא לשפת JAVA",
+    "files": [],
+    "description": ""
+  },
+  {
+    "name": "סביבת עבודה intellij IDEA",
+    "files": [
+      {
+        "name": "מדריך להתקנה של intellij.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "תוכנית בסיסית בJAVAּ",
+    "files": [
+      {
+        "name": "תוכנית בסיסית בJAVA.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "משתנים",
+    "files": [
+      {
+        "name": "בסיסי ספירה.docx"
+      },
+      {
+        "name": "משתנים.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "אופרטורים וביטויים לוגיים",
+    "files": [
+      {
+        "name": "אופרטורים וביטויים לוגיים.docx"
+      },
+      {
+        "name": "מקרי ריצה לבדיקה.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "קלט פלט",
+    "files": [
+      {
+        "name": "קלט פלט.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "תנאים",
+    "files": [
+      {
+        "name": "מקרי בדיקה.docx"
+      },
+      {
+        "name": "תנאים.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "דיבאג בסיסי",
+    "files": [
+      {
+        "name": "Debug.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "לולאות",
+    "files": [
+      {
+        "name": "לולאות.docx"
+      },
+      {
+        "name": "מקרי בדיקה.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "סטנדרטים",
+    "files": [
+      {
+        "name": "תרגול סטנדרטים.docx"
+      },
+      {
+        "name": "Java - Standards -new.pdf"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "פונקציות",
+    "files": [
+      {
+        "name": "תרגול פונקציות.docx"
+      },
+      {
+        "name": "פונקציות.docx"
+      },
+      {
+        "name": "תרגול פונקציות.docx"
+      }
+    ],
+    "description": ""
+  },
+  {
+    "name": "תרגול מסכם לשקי חול",
+    "files": [
+      {
+        "name": "תרגול מסכם שקי חול.docx"
+      }
+    ],
+    "description": ""
+  }
+]

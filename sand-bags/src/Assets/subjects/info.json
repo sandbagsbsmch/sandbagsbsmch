@@ -1,0 +1,164 @@
+[
+  {
+    "name": "מבוא למחשבים",
+    "files": [
+      {
+        "name": "מבוא למחשבים.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "ZsrmDT_8vt8" }],
+    "description": "היכרות עם עולם המחשבים וקורסי בסמח"
+  },
+  {
+    "name": "מבוא לתכנות",
+    "files": [
+      {
+        "name": "טיפים לפיתוח קוד נכון.docx"
+      },
+      {
+        "name": "מבוא לתכנות.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "עקרונות וטיפים לכתיבת קוד נכונה"
+  },
+  {
+    "name": "מבוא לשפת JAVA",
+    "files": [],
+    "media": [{ "type": "video", "id": "N0I2FrnQgKg" }],
+    "formLink": "",
+    "description": "היכרות עם שפת java איתה נעבוד לאורך הקורס"
+  },
+  {
+    "name": "סביבת עבודה intellij IDEA",
+    "files": [
+      {
+        "name": "מדריך להתקנה של intellij.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "היכרות עם סביבת העבודה איתה נעבוד לאורך הקורס"
+  },
+  {
+    "name": "תוכנית בסיסית בJAVAּ",
+    "files": [
+      {
+        "name": "תוכנית בסיסית בJAVA.docx"
+      }
+    ],
+    "media": [],
+    "description": "למידת הסינטקס והמבנה בסיסי של תוכנית בשפה"
+  },
+  {
+    "name": "משתנים",
+    "files": [
+      {
+        "name": "בסיסי ספירה.docx"
+      },
+      {
+        "name": "משתנים.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "F-knc5u9U94" }],
+    "formLink": "",
+    "description": "היכרות עם משתנים, סוגם השונים והעבודה איתם"
+  },
+  {
+    "name": "אופרטורים וביטויים לוגיים",
+    "files": [
+      {
+        "name": "אופרטורים וביטויים לוגיים.docx"
+      },
+      {
+        "name": "מקרי ריצה לבדיקה.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "CW0eIvut-QQ" }],
+    "formLink": "",
+    "description": "שילוב פעולות חשבוניות בקוד והשוואות"
+  },
+  {
+    "name": "קלט פלט",
+    "files": [
+      {
+        "name": "קלט פלט.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "1jWOIOLgONU" }],
+    "formLink": "",
+    "description": "אינטרקציה עם המשתמש, קבלת נתונים והדפסות"
+  },
+  {
+    "name": "תנאים",
+    "files": [
+      {
+        "name": "מקרי בדיקה.docx"
+      },
+      {
+        "name": "תנאים.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "Pr61U0LCkXo" }],
+    "formLink": "",
+    "description": "עבודה עם תנאים, תנאים מקוננים וswitch"
+  },
+  {
+    "name": "דיבאג בסיסי",
+    "files": [
+      {
+        "name": "Debug.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "iZM027JQ5Ig" }],
+    "formLink": "",
+    "description": "היכרות עם כלי הדיבאג והאפשרויות שהוא מציע"
+  },
+  {
+    "name": "לולאות",
+    "files": [
+      {
+        "name": "לולאות.docx"
+      },
+      {
+        "name": "מקרי בדיקה.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "9MThCb5-644" }],
+    "formLink": "",
+    "description": "מניעת חזרה על קוד, סוגי לולאות ושימוש נכון"
+  },
+  {
+    "name": "סטנדרטים",
+    "files": [
+      {
+        "name": "תרגול סטנדרטים.docx"
+      },
+      {
+        "name": "Java - Standards -new.pdf"
+      }
+    ],
+    "media": [{ "type": "video", "id": "8jh0fvXhr4E" }],
+    "formLink": "",
+    "description": "למידת סטנדרטים שישפרו את קריאות והבנת הקוד"
+  },
+  {
+    "name": "היכרות עם CMD",
+    "files": [],
+    "description": "למידת פקודות בסיסיות ועבודה דרך הcmd",
+    "media": [],
+    "formLink": ""
+  },
+  {
+    "name": "תרגול מסכם לשקי חול",
+    "files": [
+      {
+        "name": "תרגול מסכם שקי חול.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "rex3El_A4KM" }],
+    "description": "תרגול מסכם לקורס הרשתי הכולל את כל הנושאים שנלמדו",
+    "isEnd": true
+  }
+]

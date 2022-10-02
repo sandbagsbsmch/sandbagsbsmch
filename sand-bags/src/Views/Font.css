@@ -1,0 +1,35 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Assistant:wght@300&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Assistant&display=swap");
+
+.MuiCard-root {
+  display: flex;
+  flex-direction: column;
+}
+.MuiCardActions-root {
+  margin-top: auto;
+}
+
+.phoneFrame {
+  height: 35vh;
+  width: 90vw;
+  margin-left: 3vh;
+}
+
+.computerFrame {
+  height: 50vh;
+  width: 60vw;
+}
+
+.loading-content {
+  font-size: 50px;
+  margin-top: 25vh;
+}
+
+@media (max-width: 1000px) {
+  .loading-content {
+    font-size: 40px;
+    white-space: nowrap;
+    margin-top: 5vh;
+    margin-left: 18vw;
+  }
+}
