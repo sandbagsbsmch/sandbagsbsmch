@@ -1,6 +1,7 @@
 import { Typography } from "@mui/material";
-import DocxButton from "../Components/DocxButton";
-import PitButton from "./PitButton";
+import DocxButton from "./Buttons/DocxButton";
+import LinkButton from "./Buttons/LinkButton";
+import PitButton from "./Buttons/PitButton";
 const FileList = (props) => {
   return (
     <div>
@@ -16,6 +17,7 @@ const FileList = (props) => {
         />
       ))}
       {props.hasPit && <PitButton subjectId={props.subjectId} />}
+      {props.formLink !== "" && <LinkButton formLink={props.formLink} />}
     </div>
   );
 };

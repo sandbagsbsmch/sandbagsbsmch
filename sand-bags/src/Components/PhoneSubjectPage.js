@@ -112,14 +112,13 @@ const PhoneSubjectPage = (props) => {
                   </Link>
                 </Button>
               </Grid>
-              <Grid>
-                <Button sx={{ fontSize: "20px" }}>
-                  <Link to={"/#subjects"}>לחץ כאן כדי לחזור אחורה</Link>
-                </Button>
-              </Grid>
+              <Grid></Grid>
             </Grid>
           )}
         </Grid>
+        <Button sx={{ fontSize: "20px" }}>
+          <Link to={"/#subjects"}>לחץ כאן כדי לחזור אחורה</Link>
+        </Button>
       </Grid>
     </div>
   );

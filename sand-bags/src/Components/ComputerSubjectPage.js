@@ -70,7 +70,7 @@ const ComputerSubjectPage = (props) => {
             />
           ) : (
             <Image
-              width="600px"
+              width="100%"
               height="450px"
               src={require(`../Assets/subjects/${parseInt(
                 subjectId

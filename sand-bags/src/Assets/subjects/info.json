@@ -8,6 +8,7 @@
     ],
     "media": [{ "type": "video", "id": "ZsrmDT_8vt8" }],
     "description": "היכרות עם עולם המחשבים וקורסי בסמח",
+    "formLink": "https://forms.gle/bYuVqzpKupzK9X5SA",
     "hasPit": false
   },
   {
@@ -27,7 +28,11 @@
   },
   {
     "name": "מבוא לשפת JAVA",
-    "files": [],
+    "files": [
+      {
+        "name": "מבוא לשפת java.docx"
+      }
+    ],
     "media": [{ "type": "video", "id": "N0I2FrnQgKg" }],
     "formLink": "",
     "description": "היכרות עם שפת java איתה נעבוד לאורך הקורס",
@@ -144,18 +149,22 @@
         "name": "Java - Standards -new.pdf"
       }
     ],
-    "media": [{ "type": "video", "id": "8jh0fvXhr4E" }],
+    "media": [],
     "formLink": "",
     "description": "למידת סטנדרטים שישפרו את קריאות והבנת הקוד",
-    "hasPit": false
+    "hasPit": true
   },
   {
     "name": "היכרות עם CMD",
-    "files": [],
+    "files": [
+      {
+        "name": "cmd.docx"
+      }
+    ],
     "description": "למידת פקודות בסיסיות ועבודה דרך הcmd",
     "media": [],
     "formLink": "",
-    "hasPit": false
+    "hasPit": true
   },
   {
     "name": "תרגול מסכם לשקי חול",

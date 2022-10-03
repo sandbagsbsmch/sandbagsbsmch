@@ -17,7 +17,7 @@ const PitButton = (props) => {
   const [showPit, changeShowPit] = useState(false);
 
   const onDownload = () => {
-    const file = require(`../Assets/subjects/${props.subjectId}/pit.zip`);
+    const file = require(`../../Assets/subjects/${props.subjectId}/pit.zip`);
     const link = document.createElement("a");
     link.download = "pit.zip";
     link.href = file;

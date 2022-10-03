@@ -12,7 +12,7 @@ const theme = createTheme({
 });
 
 const StyledButton = (props) => {
-  const file = require(`../Assets/subjects/${props.subjectId}/${props.file.name}`);
+  const file = require(`../../Assets/subjects/${props.subjectId}/${props.file.name}`);
   const onDownload = () => {
     const link = document.createElement("a");
     link.download = props.file.name;
