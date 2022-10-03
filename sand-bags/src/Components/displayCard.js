@@ -3,14 +3,14 @@ import Card from "@mui/material/Card";
 import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
 import CardMedia from "@mui/material/CardMedia";
-import Button from "@mui/material/Button";
+
 import Typography from "@mui/material/Typography";
-import { isSubjectFinished } from "../utils/localStorageManager";
-import { useNavigate } from "react-router-dom";
+import { getReadInfo } from "../utils/localStorageManager";
 import Image from "../Assets/Untitled.png";
 import { styled } from "@mui/system";
 import BadgeUnstyled, { badgeUnstyledClasses } from "@mui/base/BadgeUnstyled";
-import alertify from "alertifyjs";
+import SubjectButton from "./SubjectButton";
+
 const StyledBadge = styled(BadgeUnstyled)(
   ({ theme }) => `
   box-sizing: border-box;
@@ -47,7 +47,8 @@ const StyledBadge = styled(BadgeUnstyled)(
 );
 
 export default function MediaCard({ subject, file, id, isFinished }) {
-  let navigate = useNavigate();
+  if (id === 1 && !getReadInfo()) {
+  }
   return (
     <StyledBadge
       sx={{ width: "100%", height: "100%" }}
@@ -68,19 +69,8 @@ export default function MediaCard({ subject, file, id, isFinished }) {
             {file.description}
           </Typography>
         </CardContent>
-        <CardActions>
-          <Button
-            size="small"
-            onClick={() =>
-              isSubjectFinished(id - 1)
-                ? navigate(`/subject/${subject}`)
-                : alertify.message(
-                    "יש לסיים את הנושא הקודם לפני שתוכלו לעבור לנושא הבא"
-                  )
-            }
-          >
-            הכנס לנושא
-          </Button>
+        <CardActions sx={{ pt: 0 }}>
+          <SubjectButton subject={subject} id={id} />
         </CardActions>
       </Card>
     </StyledBadge>

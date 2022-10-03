@@ -9,7 +9,7 @@ import Xarrow, { Xwrapper } from "react-xarrows";
 import { isSubjectFinished } from "../utils/localStorageManager";
 import useWindowDimesions from "../Hooks/useWindowDimensions";
 import CardList from "../Components/CardsList";
-import zIndex from "@mui/material/styles/zIndex";
+
 const HomePage = () => {
   const { width } = useWindowDimesions();
   const computedStartArrow = (index) => {

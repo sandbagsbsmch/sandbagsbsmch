@@ -44,7 +44,11 @@ const PhoneSubjectPage = (props) => {
       <Grid container direction="column" spacing={2}>
         <Grid sx={{ mr: "3vw" }} item xs={3}>
           <div dir="rtl">
-            <FileList subjectId={subjectId} files={currFile.files} />
+            <FileList
+              hasPit={currFile.hasPit}
+              subjectId={subjectId}
+              files={currFile.files}
+            />
           </div>
         </Grid>
         <Grid
@@ -74,9 +78,9 @@ const PhoneSubjectPage = (props) => {
               }}
               width="80vw"
               height="35vh"
-              src={require(`../Assets/subjects/${
-                parseInt(subjectId) + 1
-              }/display.jpg`)}
+              src={require(`../Assets/subjects/${parseInt(
+                subjectId
+              )}/display.jpg`)}
               duration={0}
             ></Image>
           )}

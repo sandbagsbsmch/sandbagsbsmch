@@ -109,9 +109,7 @@ export default function BasicModal({ subjectId }) {
               onClick={handleClose}
               variant="contained"
             >
-              <Link className="noStyle" to={"/"}>
-                לא משנה
-              </Link>
+              לא משנה
             </Button>
           </Box>
         </Box>

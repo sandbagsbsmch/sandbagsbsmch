@@ -43,7 +43,11 @@ const ComputerSubjectPage = (props) => {
       <Grid container sx={{ marginTop: "3vh" }} spacing={2}>
         <Grid item xs={3}>
           <div dir="rtl">
-            <FileList subjectId={subjectId} files={currFile.files} />
+            <FileList
+              subjectId={subjectId}
+              hasPit={currFile.hasPit}
+              files={currFile.files}
+            />
           </div>
         </Grid>
         <Divider
@@ -68,9 +72,9 @@ const ComputerSubjectPage = (props) => {
             <Image
               width="600px"
               height="450px"
-              src={require(`../Assets/subjects/${
-                parseInt(subjectId) + 1
-              }/display.jpg`)}
+              src={require(`../Assets/subjects/${parseInt(
+                subjectId
+              )}/display.jpg`)}
               duration={0}
             ></Image>
           )}

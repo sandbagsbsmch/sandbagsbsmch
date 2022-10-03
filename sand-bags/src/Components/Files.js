@@ -1,6 +1,6 @@
 import { Typography } from "@mui/material";
 import DocxButton from "../Components/DocxButton";
-
+import PitButton from "./PitButton";
 const FileList = (props) => {
   return (
     <div>
@@ -15,6 +15,7 @@ const FileList = (props) => {
           file={file}
         />
       ))}
+      {props.hasPit && <PitButton subjectId={props.subjectId} />}
     </div>
   );
 };

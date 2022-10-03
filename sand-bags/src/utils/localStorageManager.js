@@ -32,4 +32,16 @@ const isSubjectFinished = (subject) => {
   return subject === -1 ? true : getStorage()[subject];
 };
 
-export { finishSubject, isSubjectFinished };
+const getReadInfo = () => {
+  if (localStorage.getItem("readInfo") === null) {
+    localStorage.setItem("readInfo", false);
+  }
+
+  return JSON.parse(localStorage.getItem("readInfo"));
+};
+
+const readInfo = () => {
+  localStorage.setItem("readInfo", true);
+};
+
+export { finishSubject, isSubjectFinished, getReadInfo, readInfo };

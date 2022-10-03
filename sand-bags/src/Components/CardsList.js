@@ -13,9 +13,15 @@ const CardList = () => {
     file: require(`../Assets/subjects/info/הבהרות.docx`),
     name: "הבהרות.docx",
   };
+
   const luz = {
     file: require(`../Assets/subjects/info/לוז.xlsx`),
     name: "לוז.xlsx",
+  };
+
+  const extra = {
+    file: require(`../Assets/subjects/extra/Extra.docx`),
+    name: "Extra.docx",
   };
 
   const onDownload = ({ name, file }) => {
@@ -155,8 +161,11 @@ const CardList = () => {
               className="backColor"
               sx={{ mt: "1vh" }}
               variant="contained"
+              onClick={() => {
+                onDownload(extra);
+              }}
             >
-              מעבר לאקסטרה
+              לחץ כאן כדי להוריד את האקסטרה
             </Button>
           </CardContent>
         </Card>
