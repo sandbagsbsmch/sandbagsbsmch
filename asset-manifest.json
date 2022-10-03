@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.feda5719.js",
+    "main.js": "/static/js/main.9c32fc25.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.80ab0fbc3c585655ed03.docx",
     "static/media/מבוא למחשבים.docx": "/static/media/מבוא למחשבים.5d67c0fe072e3dee9e30.docx",
@@ -28,11 +28,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.aeaf0beb9d228f202fc8.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.feda5719.js.map": "/static/js/main.feda5719.js.map",
+    "main.9c32fc25.js.map": "/static/js/main.9c32fc25.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.feda5719.js"
+    "static/js/main.9c32fc25.js"
   ]
 }
