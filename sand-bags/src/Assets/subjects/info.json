@@ -22,7 +22,7 @@
       }
     ],
     "media": [],
-    "formLink": "",
+    "formLink": "https://forms.gle/VBMrox9TpSUCghfn9",
     "description": "עקרונות וטיפים לכתיבת קוד נכונה",
     "hasPit": false
   },
@@ -34,7 +34,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "N0I2FrnQgKg" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/wGScsANWRJJBTnfa9",
     "description": "היכרות עם שפת java איתה נעבוד לאורך הקורס",
     "hasPit": false
   },
@@ -58,8 +58,9 @@
       }
     ],
     "media": [],
+    "formLink": "https://forms.gle/EZxEcQR8crXRpptH8",
     "description": "למידת הסינטקס והמבנה בסיסי של תוכנית בשפה",
-    "hasPit": false
+    "hasPit": true
   },
   {
     "name": "משתנים",
@@ -69,7 +70,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "F-knc5u9U94" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/QnVwsybyuxxaGKYj8",
     "description": "היכרות עם משתנים, סוגם השונים והעבודה איתם",
     "hasPit": true
   },
@@ -81,7 +82,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "CW0eIvut-QQ" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/oW5FeM1pK12odnzz5",
     "description": "שילוב פעולות חשבוניות בקוד והשוואות",
     "hasPit": true
   },
@@ -93,7 +94,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "1jWOIOLgONU" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/9AV5XckZV9oL6TtD9",
     "description": "אינטרקציה עם המשתמש, קבלת נתונים והדפסות",
     "hasPit": false
   },
@@ -108,7 +109,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "Pr61U0LCkXo" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/6Ku6SvEVEZsTNiJB8",
     "description": "עבודה עם תנאים, תנאים מקוננים וswitch",
     "hasPit": true
   },
@@ -120,7 +121,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "iZM027JQ5Ig" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/ANu3ZF5oc9uJEB7w6",
     "description": "היכרות עם כלי הדיבאג והאפשרויות שהוא מציע",
     "hasPit": true
   },
@@ -135,7 +136,7 @@
       }
     ],
     "media": [{ "type": "video", "id": "9MThCb5-644" }],
-    "formLink": "",
+    "formLink": "https://forms.gle/hEtx4bmCST2xP4nh6",
     "description": "מניעת חזרה על קוד, סוגי לולאות ושימוש נכון",
     "hasPit": true
   },
@@ -163,7 +164,7 @@
     ],
     "description": "למידת פקודות בסיסיות ועבודה דרך הcmd",
     "media": [],
-    "formLink": "",
+    "formLink": "https://forms.gle/9oqbTfJQtEgfoTEU8",
     "hasPit": true
   },
   {
@@ -176,6 +177,7 @@
     "media": [{ "type": "video", "id": "rex3El_A4KM" }],
     "description": "תרגול מסכם לקורס הרשתי הכולל את כל הנושאים שנלמדו",
     "isEnd": true,
+    "formLink": "",
     "hasPit": false
   }
 ]

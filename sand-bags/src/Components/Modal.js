@@ -82,7 +82,8 @@ export default function BasicModal({ subjectId }) {
             בתשובה שלכם.<br></br> את המייל תשלחו בפורמט אחיד כך שנושא המייל יראה
             כך: <br />{" "}
             <strong>
-              {calculatedCycle} - שקי חול : {"{שמכם המלא}"}
+              {calculatedCycle} - שקי חול : {"{שמכם המלא}"}, תעודת זהות:
+              XXXXXXXXX, מספר אישי: XXXXXXX
             </strong>
           </Typography>
           <Box sx={{ mt: "2vh" }}>

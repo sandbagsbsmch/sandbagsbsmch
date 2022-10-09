@@ -44,6 +44,7 @@ const ComputerSubjectPage = (props) => {
         <Grid item xs={3}>
           <div dir="rtl">
             <FileList
+              formLink={currFile.formLink}
               subjectId={subjectId}
               hasPit={currFile.hasPit}
               files={currFile.files}

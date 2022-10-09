@@ -45,6 +45,7 @@ const PhoneSubjectPage = (props) => {
         <Grid sx={{ mr: "3vw" }} item xs={3}>
           <div dir="rtl">
             <FileList
+              formLink={currFile.formLink}
               hasPit={currFile.hasPit}
               subjectId={subjectId}
               files={currFile.files}

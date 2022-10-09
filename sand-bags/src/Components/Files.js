@@ -16,8 +16,8 @@ const FileList = (props) => {
           file={file}
         />
       ))}
-      {props.hasPit && <PitButton subjectId={props.subjectId} />}
       {props.formLink !== "" && <LinkButton formLink={props.formLink} />}
+      {props.hasPit && <PitButton subjectId={props.subjectId} />}
     </div>
   );
 };
