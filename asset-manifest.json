@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.3c409474.js",
+    "main.js": "/static/js/main.60c0d5da.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.80ab0fbc3c585655ed03.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
@@ -15,27 +15,27 @@
     "static/media/תנאים.docx": "/static/media/תנאים.ca0c5988f010ad3f34d4.docx",
     "static/media/Debug.docx": "/static/media/Debug.5619aa84096c1f8b6d63.docx",
     "static/media/קלט פלט.docx": "/static/media/קלט פלט.dada10f596dae56dadc7.docx",
+    "static/media/טבלת מקרי בדיקה.docx": "/static/media/טבלת מקרי בדיקה.64ced7f3a0d17ed52a4b.docx",
+    "static/media/תרגול מסכם שקי חול.docx": "/static/media/תרגול מסכם שקי חול.6a4d5d0428a3a2a8fdff.docx",
     "static/media/מדריך להתקנה של intellij.docx": "/static/media/מדריך להתקנה של intellij.3f0eadd7ef9041d7e796.docx",
     "static/media/אופרטורים וביטויים לוגיים.docx": "/static/media/אופרטורים וביטויים לוגיים.e1c08bfcc4d89ad4021f.docx",
     "static/media/תוכנית בסיסית בJAVA.docx": "/static/media/תוכנית בסיסית בJAVA.9f418a0242778d2d671f.docx",
     "static/media/Extra.docx": "/static/media/Extra.391b5676e2146fe9d8e2.docx",
-    "static/media/תרגול מסכם שקי חול.docx": "/static/media/תרגול מסכם שקי חול.de150ccd51a9ef8215e5.docx",
     "static/media/display.jpg": "/static/media/display.c9b0320b1d0519635022.jpg",
     "static/media/טיפים לפיתוח קוד נכון.docx": "/static/media/טיפים לפיתוח קוד נכון.3fa8ed8a4e90f13f260f.docx",
     "static/media/תרגול סטנדרטים.docx": "/static/media/תרגול סטנדרטים.ab601e7ba4139aaaf2d1.docx",
     "static/media/מקרי ריצה לבדיקה.docx": "/static/media/מקרי ריצה לבדיקה.c1825bc26e0450d4b09d.docx",
-    "static/media/טבלת מקרי בדיקה.docx": "/static/media/טבלת מקרי בדיקה.64ced7f3a0d17ed52a4b.docx",
     "static/media/Untitled.png": "/static/media/Untitled.eddba819d5e76bc14588.png",
     "static/media/מבוא לשפת java.docx": "/static/media/מבוא לשפת java.c98f43b4f47bd29db48e.docx",
     "static/media/הבהרה לגבי טבלת קלט פלט.docx": "/static/media/הבהרה לגבי טבלת קלט פלט.917c8138b6bd459e43ca.docx",
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.3c409474.js.map": "/static/js/main.3c409474.js.map",
+    "main.60c0d5da.js.map": "/static/js/main.60c0d5da.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.3c409474.js"
+    "static/js/main.60c0d5da.js"
   ]
 }
