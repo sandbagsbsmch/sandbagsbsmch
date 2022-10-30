@@ -15,10 +15,10 @@
     "name": "מבוא לתכנות",
     "files": [
       {
-        "name": "טיפים לפיתוח קוד נכון.docx"
+        "name": "מבוא לתכנות.docx"
       },
       {
-        "name": "מבוא לתכנות.docx"
+        "name": "טיפים לפיתוח קוד נכון.docx"
       }
     ],
     "media": [],
@@ -90,22 +90,25 @@
     "name": "קלט פלט",
     "files": [
       {
+        "name": "קלט פלט.docx"
+      },
+      {
         "name": "הבהרה לגבי טבלת קלט פלט.docx"
       }
     ],
     "media": [{ "type": "video", "id": "1jWOIOLgONU" }],
     "formLink": "https://forms.gle/9AV5XckZV9oL6TtD9",
     "description": "אינטרקציה עם המשתמש, קבלת נתונים והדפסות",
-    "hasPit": false
+    "hasPit": true
   },
   {
     "name": "תנאים",
     "files": [
       {
-        "name": "מקרי ריצה לבדיקה.docx"
+        "name": "תנאים.docx"
       },
       {
-        "name": "תנאים.docx"
+        "name": "מקרי ריצה לבדיקה.docx"
       }
     ],
     "media": [{ "type": "video", "id": "Pr61U0LCkXo" }],
@@ -144,10 +147,10 @@
     "name": "סטנדרטים",
     "files": [
       {
-        "name": "תרגול סטנדרטים.docx"
+        "name": "Java - Standards -new.pdf"
       },
       {
-        "name": "Java - Standards -new.pdf"
+        "name": "תרגול סטנדרטים.docx"
       }
     ],
     "media": [],
@@ -172,6 +175,9 @@
     "files": [
       {
         "name": "תרגול מסכם שקי חול.docx"
+      },
+      {
+        "name": "טבלת מקרי בדיקה.docx"
       }
     ],
     "media": [{ "type": "video", "id": "rex3El_A4KM" }],
