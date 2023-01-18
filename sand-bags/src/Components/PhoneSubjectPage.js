@@ -108,7 +108,7 @@ const PhoneSubjectPage = (props) => {
                   variant="contained"
                   color="success"
                 >
-                  <Link className="noStyle" to={"/"}>
+                  <Link className="noStyle" to={"/#subjects"}>
                     סיימתי את הנושא
                   </Link>
                 </Button>
