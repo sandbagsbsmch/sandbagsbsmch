@@ -1,28 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.60c0d5da.js",
+    "main.js": "/static/js/main.5a544865.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
-    "static/media/משתנים.docx": "/static/media/משתנים.80ab0fbc3c585655ed03.docx",
+    "static/media/משתנים.docx": "/static/media/משתנים.b0eac5b1b8497db8efd5.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
     "static/media/מבוא למחשבים.docx": "/static/media/מבוא למחשבים.5d67c0fe072e3dee9e30.docx",
     "static/media/pit.zip": "/static/media/pit.6f816c0b26d7f3f513c6.zip",
     "static/media/Java - Standards -new.pdf": "/static/media/Java - Standards -new.0c7c3f4efd38186451d6.pdf",
     "static/media/מבוא לתכנות.docx": "/static/media/מבוא לתכנות.46216b56e9376b264eef.docx",
-    "static/media/cmd.docx": "/static/media/cmd.106de8279bd6362307c2.docx",
     "static/media/לולאות.docx": "/static/media/לולאות.a6050b1f29aa7ed161b0.docx",
     "static/media/logo.png": "/static/media/logo.2ed347a09c382be81ddf.png",
-    "static/media/תנאים.docx": "/static/media/תנאים.ca0c5988f010ad3f34d4.docx",
+    "static/media/תנאים.docx": "/static/media/תנאים.bc6734ce307bab0976b6.docx",
     "static/media/Debug.docx": "/static/media/Debug.5619aa84096c1f8b6d63.docx",
     "static/media/קלט פלט.docx": "/static/media/קלט פלט.dada10f596dae56dadc7.docx",
     "static/media/טבלת מקרי בדיקה.docx": "/static/media/טבלת מקרי בדיקה.64ced7f3a0d17ed52a4b.docx",
     "static/media/תרגול מסכם שקי חול.docx": "/static/media/תרגול מסכם שקי חול.6a4d5d0428a3a2a8fdff.docx",
+    "static/media/תוכנית בסיסית בJava.docx": "/static/media/תוכנית בסיסית בJava.d9b4318935ed153fe45d.docx",
     "static/media/מדריך להתקנה של intellij.docx": "/static/media/מדריך להתקנה של intellij.3f0eadd7ef9041d7e796.docx",
     "static/media/אופרטורים וביטויים לוגיים.docx": "/static/media/אופרטורים וביטויים לוגיים.e1c08bfcc4d89ad4021f.docx",
-    "static/media/תוכנית בסיסית בJAVA.docx": "/static/media/תוכנית בסיסית בJAVA.9f418a0242778d2d671f.docx",
-    "static/media/Extra.docx": "/static/media/Extra.391b5676e2146fe9d8e2.docx",
     "static/media/display.jpg": "/static/media/display.c9b0320b1d0519635022.jpg",
     "static/media/טיפים לפיתוח קוד נכון.docx": "/static/media/טיפים לפיתוח קוד נכון.3fa8ed8a4e90f13f260f.docx",
+    "static/media/Exrc-Pit (9).zip": "/static/media/Exrc-Pit (9).6660de0de24d4be12818.zip",
+    "static/media/Extra.docx": "/static/media/Extra.76b0f64716bfeff67538.docx",
     "static/media/תרגול סטנדרטים.docx": "/static/media/תרגול סטנדרטים.ab601e7ba4139aaaf2d1.docx",
     "static/media/מקרי ריצה לבדיקה.docx": "/static/media/מקרי ריצה לבדיקה.c1825bc26e0450d4b09d.docx",
     "static/media/Untitled.png": "/static/media/Untitled.eddba819d5e76bc14588.png",
@@ -31,11 +31,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.60c0d5da.js.map": "/static/js/main.60c0d5da.js.map",
+    "main.5a544865.js.map": "/static/js/main.5a544865.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.60c0d5da.js"
+    "static/js/main.5a544865.js"
   ]
 }
