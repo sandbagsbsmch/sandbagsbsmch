@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.5a544865.js",
+    "main.js": "/static/js/main.49e52ba6.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.b0eac5b1b8497db8efd5.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
@@ -31,11 +31,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.5a544865.js.map": "/static/js/main.5a544865.js.map",
+    "main.49e52ba6.js.map": "/static/js/main.49e52ba6.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.5a544865.js"
+    "static/js/main.49e52ba6.js"
   ]
 }
