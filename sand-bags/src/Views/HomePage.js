@@ -107,7 +107,7 @@ const HomePage = () => {
                   file={file}
                   isFinished={isSubjectFinished(index)}
                 />
-                {index !== 13 ? (
+                {index !== filesInfo.length - 1 ? (
                   <Xarrow
                     headSize={4}
                     color="#E4E4E4"
