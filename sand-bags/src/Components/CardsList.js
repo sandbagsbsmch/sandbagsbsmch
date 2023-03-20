@@ -14,11 +14,6 @@ const CardList = () => {
     name: "הבהרות.docx",
   };
 
-  const luz = {
-    file: require(`../Assets/subjects/info/לוז.xlsx`),
-    name: "לוז.xlsx",
-  };
-
   const extra = {
     file: require(`../Assets/subjects/extra/Extra.docx`),
     name: "Extra.docx",
@@ -72,16 +67,6 @@ const CardList = () => {
               }}
             >
               לחץ כדי להוריד את ההבהרות
-            </Button>
-            <Button
-              sx={{ mt: "1vh" }}
-              className="backColor"
-              variant="contained"
-              onClick={() => {
-                onDownload(luz);
-              }}
-            >
-              לחץ כדי להוריד לו"ז מומלץ
             </Button>
           </CardContent>
         </Card>

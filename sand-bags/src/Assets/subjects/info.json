@@ -4,6 +4,9 @@
     "files": [
       {
         "name": "מבוא למחשבים.docx"
+      },
+      {
+        "name": "נספח File Explorer וZip.docx"
       }
     ],
     "media": [{ "type": "video", "id": "ZsrmDT_8vt8" }],
@@ -54,7 +57,7 @@
     "name": "תוכנית בסיסית בJAVAּ",
     "files": [
       {
-        "name": "תוכנית בסיסית בJava.docx"
+        "name": "תוכנית בסיסית בJAVA.docx"
       }
     ],
     "media": [],
@@ -141,6 +144,30 @@
     "media": [{ "type": "video", "id": "9MThCb5-644" }],
     "formLink": "https://forms.gle/hEtx4bmCST2xP4nh6",
     "description": "מניעת חזרה על קוד, סוגי לולאות ושימוש נכון",
+    "hasPit": true
+  },
+  {
+    "name": "תכנון קוד",
+    "files": [
+      {
+        "name": "תכנון קוד.docx"
+      }
+    ],
+    "media": [],
+    "formLink": "",
+    "description": "תכנון קוד נכון באמצעות הבנת הבעיה ותכנון הפתרון",
+    "hasPit": false
+  },
+  {
+    "name": "פונקציות",
+    "files": [
+      {
+        "name": "פונקציות.docx"
+      }
+    ],
+    "media": [{ "type": "video", "id": "O5H9G4ishh8" }],
+    "formLink": "",
+    "description": "הפרדת הקוד לחלקים לוגיים ומניעת חזרה על קוד",
     "hasPit": true
   },
   {
