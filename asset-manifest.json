@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.a5610497.js",
+    "main.js": "/static/js/main.188ca444.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.b0eac5b1b8497db8efd5.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
@@ -24,7 +24,6 @@
     "static/media/display.jpg": "/static/media/display.c9b0320b1d0519635022.jpg",
     "static/media/תכנון קוד.docx": "/static/media/תכנון קוד.b381f2e927f3d9bb2b27.docx",
     "static/media/טיפים לפיתוח קוד נכון.docx": "/static/media/טיפים לפיתוח קוד נכון.3fa8ed8a4e90f13f260f.docx",
-    "static/media/Exrc-Pit (9).zip": "/static/media/Exrc-Pit (9).6660de0de24d4be12818.zip",
     "static/media/Extra.docx": "/static/media/Extra.76b0f64716bfeff67538.docx",
     "static/media/תרגול סטנדרטים.docx": "/static/media/תרגול סטנדרטים.ab601e7ba4139aaaf2d1.docx",
     "static/media/מקרי ריצה לבדיקה.docx": "/static/media/מקרי ריצה לבדיקה.c1825bc26e0450d4b09d.docx",
@@ -34,11 +33,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.a5610497.js.map": "/static/js/main.a5610497.js.map",
+    "main.188ca444.js.map": "/static/js/main.188ca444.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.a5610497.js"
+    "static/js/main.188ca444.js"
   ]
 }
