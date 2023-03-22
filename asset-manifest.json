@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.fd295afe.css",
-    "main.js": "/static/js/main.188ca444.js",
+    "main.js": "/static/js/main.e754e673.js",
     "static/js/787.ac872931.chunk.js": "/static/js/787.ac872931.chunk.js",
     "static/media/משתנים.docx": "/static/media/משתנים.b0eac5b1b8497db8efd5.docx",
     "static/media/הבהרות.docx": "/static/media/הבהרות.1ee109e4a6081a9be224.docx",
     "static/media/מבוא למחשבים.docx": "/static/media/מבוא למחשבים.5d67c0fe072e3dee9e30.docx",
     "static/media/pit.zip": "/static/media/pit.ca533493e3d5edc76b28.zip",
-    "static/media/Java - Standards -new.pdf": "/static/media/Java - Standards -new.0c7c3f4efd38186451d6.pdf",
+    "static/media/חוברת סטנדרטים.pdf": "/static/media/חוברת סטנדרטים.42998e5dbca335112812.pdf",
     "static/media/מבוא לתכנות.docx": "/static/media/מבוא לתכנות.46216b56e9376b264eef.docx",
     "static/media/פונקציות.docx": "/static/media/פונקציות.aad24ebdcd0f52b656cf.docx",
     "static/media/לולאות.docx": "/static/media/לולאות.a6050b1f29aa7ed161b0.docx",
@@ -33,11 +33,11 @@
     "static/media/לוז.xlsx": "/static/media/לוז.1ddc3ef410ae8afb7e2e.xlsx",
     "index.html": "/index.html",
     "main.fd295afe.css.map": "/static/css/main.fd295afe.css.map",
-    "main.188ca444.js.map": "/static/js/main.188ca444.js.map",
+    "main.e754e673.js.map": "/static/js/main.e754e673.js.map",
     "787.ac872931.chunk.js.map": "/static/js/787.ac872931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fd295afe.css",
-    "static/js/main.188ca444.js"
+    "static/js/main.e754e673.js"
   ]
 }
