@@ -9,10 +9,8 @@ import useWindowDimesions from "../Hooks/useWindowDimensions";
 import {
   readInfo,
   getReadInfo,
-  isSubjectFinished,
 } from "../utils/localStorageManager";
 import { useNavigate } from "react-router-dom";
-import alertify from "alertifyjs";
 const style = {
   position: "absolute",
   top: "50%",
@@ -39,11 +37,7 @@ const SubjectButton = ({ subject, id }) => {
     if (id === 0 && !getReadInfo()) {
       handleOpen();
     } else {
-      isSubjectFinished(id - 1)
-        ? navigate(`/subject/${subject}`)
-        : alertify.message(
-            "יש לסיים את הנושא הקודם לפני שתוכלו לעבור לנושא הבא"
-          );
+      navigate(`/subject/${subject}`)
     }
   };
   return (
